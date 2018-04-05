@@ -1,0 +1,16 @@
+{
+	"success": true,
+	"message": "Aplikasi sudah usang dan harus di perbarui, silahkan menghubungi IT yang bersangkutan",
+	"info": {
+		"active": true,
+		"code": 20180101,
+		"required": true,
+		"fix": [
+		    "Support connect oracle",
+		    "Support connect hsql",
+		    "Support connect h2",
+		    "Support connect ibm db2",
+		    "Support driver jtopen"
+		]
+	}
+}
