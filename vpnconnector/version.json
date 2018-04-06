@@ -6,11 +6,10 @@
 		"code": 20180101,
 		"required": true,
 		"fix": [
-		    "Support connect oracle",
-		    "Support connect hsql",
-		    "Support connect h2",
-		    "Support connect ibm db2",
-		    "Support driver jtopen"
+		    "Penggantian database excel.xlsx",
+		    "Penambahan interval ping server",
+		    "Penambahan sound",
+		    "Penambahan log"
 		],
 		"url": "https://raw.githubusercontent.com/syifarahmat/desktopdesign/master/vpnconnector/version.json"
 	}
