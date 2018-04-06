@@ -11,6 +11,7 @@
 		    "Support connect h2",
 		    "Support connect ibm db2",
 		    "Support driver jtopen"
-		]
+		],
+		"url": "https://raw.githubusercontent.com/syifarahmat/desktopdesign/master/vpnconnector/version.json"
 	}
 }
