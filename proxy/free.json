@@ -1,0 +1,25 @@
+[{
+"server": "95.87.14.245",
+"port": 41258,
+"code": "BG",
+"country": "Bulgaria",
+"anonymity": "elite proxy"
+}, {
+"server": "160.242.17.178",
+"port": 45218,
+"code": "NA",
+"country": "Namibia",
+"anonymity": "elite proxy"
+}, {
+"server": "185.14.250.168",
+"port": 53281,
+"code": "IQ",
+"country": "Iraq",
+"anonymity": "elite proxy"
+}, {
+"server": "176.31.69.179",
+"port": 1080,
+"code": "FR",
+"country": "France",
+"anonymity": "elite proxy"
+}]
